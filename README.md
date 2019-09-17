@@ -1,3 +1,5 @@
-# ohmygodwhy.github.io
+# a repository for my "made from scratch" website
+
+features: https://daneden.github.io/animate.css/
 
 OH MY GOD WHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
