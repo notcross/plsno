@@ -1,2 +1,0 @@
-This is a simple file that will make sure that this folder is uploaded to github
-when git pushed. 
